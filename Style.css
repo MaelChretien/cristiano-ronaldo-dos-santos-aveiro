@@ -1,0 +1,59 @@
+h1{
+    margin:0;
+text-align: center;
+    font-family:'Russo One', sans-serif;
+    color: black;
+}
+
+#photoune{
+background-image:url(https://pbs.twimg.com/media/DQszuOXUIAAdonP.jpg) ;
+width: 99vw;
+
+}
+
+body {
+    margin:0;
+}
+#instaronaldo{
+    background-color: darkgreen;
+    color: crimson;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 350ms ease;
+    font-family:'Russo One', sans-serif;
+    text-align: center;
+    display: block;
+}
+#instaronaldo:hover{
+    background-color: crimson;
+    color: darkgreen;
+}
+#twitterronaldo{
+    background-color: crimson;
+    color: darkgreen;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 350ms ease;
+    font-family:'Russo One', sans-serif;
+    text-align: center;
+    display: block;
+}
+#twitterronaldo:hover{
+    background-color: darkgreen;
+    color: crimson;
+}
+
+p{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    color: black;
+}
+
+div{
+    width: 400px;
+    box-shadow: 10px 10px 50px;
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+
+}
